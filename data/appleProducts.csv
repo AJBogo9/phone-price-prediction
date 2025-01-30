@@ -1,0 +1,18 @@
+Unnamed: 0,Name,Brand,Model,Battery capacity (mAh),Screen size (inches),Touchscreen,Resolution x,Resolution y,Processor,RAM (MB),Internal storage (GB),Rear camera,Front camera,Operating system,Wi-Fi,Bluetooth,GPS,Number of SIMs,3G,4G/ LTE,Price
+2,iPhone 11 Pro Max,Apple,iPhone 11 Pro Max,3969,6.5,Yes,1242,2688,6,4000,64.0,12.0,12.0,iOS,Yes,Yes,Yes,2,Yes,Yes,106900
+3,iPhone 11,Apple,iPhone 11,3110,6.1,Yes,828,1792,6,4000,64.0,12.0,12.0,iOS,Yes,Yes,Yes,2,Yes,Yes,62900
+21,Apple iPhone XR,Apple,iPhone XR,2942,6.1,Yes,828,1792,6,3000,64.0,12.0,7.0,iOS,Yes,Yes,Yes,2,Yes,Yes,45499
+22,Apple iPhone XS Max,Apple,iPhone XS Max,2658,6.5,Yes,1242,2688,6,4000,64.0,12.0,7.0,iOS,Yes,Yes,Yes,2,Yes,Yes,69999
+23,Apple iPhone XS,Apple,iPhone XS,2658,5.8,Yes,1125,2436,6,4000,64.0,12.0,7.0,iOS,Yes,Yes,Yes,2,Yes,Yes,59999
+39,Apple iPhone 8,Apple,iPhone 8,1821,4.7,Yes,750,1334,6,2000,64.0,12.0,7.0,iOS,Yes,Yes,Yes,1,Yes,Yes,36999
+40,Apple iPhone 8 Plus,Apple,iPhone 8 Plus,2691,5.5,Yes,1080,1920,6,3000,64.0,12.0,7.0,iOS,Yes,Yes,Yes,1,Yes,Yes,47000
+41,Apple iPhone X,Apple,iPhone X,2716,5.8,Yes,1125,2436,6,3000,64.0,12.0,7.0,iOS,Yes,Yes,Yes,1,Yes,Yes,69999
+51,Apple iPhone 7 Plus,Apple,iPhone 7 Plus,2900,5.5,Yes,1080,1920,4,3000,32.0,12.0,7.0,iOS,Yes,Yes,Yes,1,Yes,Yes,34999
+52,Apple iPhone 7,Apple,iPhone 7,1960,4.7,Yes,750,1334,4,2000,32.0,12.0,7.0,iOS,Yes,Yes,Yes,1,Yes,Yes,27999
+61,Apple iPhone 6s Plus,Apple,iPhone 6s Plus,2750,5.5,Yes,1080,1920,1,2000,16.0,12.0,5.0,iOS,Yes,Yes,Yes,1,Yes,Yes,25990
+192,Apple iPhone SE,Apple,iPhone SE,1624,4.0,Yes,640,1136,1,2000,16.0,12.0,1.2,iOS,Yes,Yes,Yes,1,Yes,Yes,16999
+200,Apple iPhone 6s,Apple,iPhone 6s,1715,4.7,Yes,750,1334,2,2000,16.0,12.0,5.0,iOS,Yes,Yes,Yes,1,Yes,Yes,22999
+222,Apple iPhone 6 Plus,Apple,iPhone 6 Plus,2915,5.5,Yes,1080,1920,1,1000,16.0,8.0,1.2,iOS,Yes,Yes,Yes,1,Yes,Yes,23999
+223,Apple iPhone 6,Apple,iPhone 6,1810,4.7,Yes,750,1334,2,1000,16.0,8.0,1.2,iOS,Yes,Yes,Yes,1,Yes,Yes,15999
+240,Apple iPhone 5c,Apple,iPhone 5c,1507,4.0,Yes,640,1136,2,1000,8.0,8.0,1.2,iOS,Yes,Yes,Yes,1,Yes,Yes,8499
+630,iPhone 11 Pro,Apple,iPhone 11 Pro,3046,5.8,Yes,1125,2436,6,4000,64.0,12.0,12.0,iOS,Yes,Yes,Yes,2,Yes,Yes,96900
