@@ -1,1 +1,3 @@
-Machine learning project for course CS-C3240 - Machine Learning.
+# Automatic phone pricing with regression models
+
+Project document can be found from [here](code.ipynb)
