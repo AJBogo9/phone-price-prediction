@@ -1,3 +1,3 @@
 # Automatic phone pricing with regression models
 
-Project document can be found from [here](code.ipynb)
+The project report can be found from [here](ML_price_prediction_report.pdf) and the code file from [here](code.ipynb)
